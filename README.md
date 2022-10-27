@@ -3,6 +3,8 @@
 
 - 🌱 Estou atualmente aprendendo **Orientação a objeto e começando a estudar Django**
 
+- 🔭 Atuamente desenvolvendo https://github.com/brunorodriguesdias/sistema_web
+
 - 👨‍💻 Meus projetos estão disponíveis aqui [https://github.com/brunorodriguesdias?tab=repositories](https://github.com/brunorodriguesdias?tab=repositories)
 
 - 📫 Pode me contatar pelo e-mail **brunorodriguesdias@gmail.com**
