@@ -9,7 +9,7 @@
 
 - 📫 Pode me contatar pelo e-mail **brunorodriguesdias@gmail.com**
 
-- 📄 Conheça melhor as minhas experiencias [https://drive.google.com/file/d/1yYZ9HIGMBKqDuwMMfSFMWMQsew5iQMJt/view?usp=sharing](https://drive.google.com/file/d/1yYZ9HIGMBKqDuwMMfSFMWMQsew5iQMJt/view?usp=sharing)
+- 📄 Conheça melhor as minhas experiências [https://drive.google.com/file/d/1yYZ9HIGMBKqDuwMMfSFMWMQsew5iQMJt/view?usp=sharing](https://drive.google.com/file/d/1yYZ9HIGMBKqDuwMMfSFMWMQsew5iQMJt/view?usp=sharing)
 
 <h3 align="left">Você pode se conectar comigo: https://www.linkedin.com/in/brunorodriguesdias/</h3>
 <p align="left">
