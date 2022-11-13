@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Bruno Rodrigues Dias</h1>
 <h3 align="center">Desenvolvedor back-end Python</h3>
 
-- 🌱 Estou estudando atualmente - **Orientação a objeto e o começando a usar o framework Django**
+- 🌱 Estou estudando atualmente - **Orientação a objeto e começando a usar o framework Django**
 
 - 🔭 Atuamente desenvolvendo https://github.com/brunorodriguesdias/sistema_web
 
