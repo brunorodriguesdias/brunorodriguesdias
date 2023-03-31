@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Bruno Rodrigues Dias</h1>
 <h3 align="center">Desenvolvedor back-end Java</h3>
 
-- 🌱 Estou estudando atualmente - **Orientação a objeto e o framework Spring**
+- 🌱 Estou estudando atualmente - **Java, framework Spring boot e testes unitários**
 
 - 👨‍💻 Meus projetos estão disponíveis aqui [https://github.com/brunorodriguesdias?tab=repositories](https://github.com/brunorodriguesdias?tab=repositories)
 
