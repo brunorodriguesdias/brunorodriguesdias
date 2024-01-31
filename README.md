@@ -5,8 +5,6 @@
 
 - 📫 Pode me contatar pelo e-mail **brunorodriguesdias@gmail.com**
 
-- 📄 Conheça melhor as minhas experiências [https://drive.google.com/file/d/19uME0sbXiekgCS5cCy42pq_ni7q7MvbP/view?usp=sharing](https://drive.google.com/file/d/19uME0sbXiekgCS5cCy42pq_ni7q7MvbP/view?usp=sharing)
-
 <h3 align="left">Você pode se conectar comigo: https://www.linkedin.com/in/brunorodriguesdias/</h3>
 <p align="left">
 </p>
